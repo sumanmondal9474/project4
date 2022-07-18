@@ -1,0 +1,16 @@
+{
+  "name": "p-4-urlshortner",
+  "version": "1.0.0",
+  "description": "project 4 URL shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajat khobragade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4",
+    "valid-url": "^1.0.9"
+  }
+}
